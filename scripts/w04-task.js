@@ -4,7 +4,7 @@
 
 const myProfile = {
     name: 'Evelyn Espinoza',
-    photo: 'images/EvelynJimena.jpg',
+    photo: 'images/EvelynJimena.png',
 
     favoriteFoods: [
     'Lasaña',
